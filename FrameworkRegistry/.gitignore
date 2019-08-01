@@ -1,0 +1,32 @@
+# **/ patterns
+**/obj/**
+**/bin/**
+**/Debug/**
+**/Release/**
+**/ipch/**
+**/TestResults/**
+**/packages/**
+
+# *. patterns
+*.vssscc
+*.vspscc
+*.suo
+*.dbmdl
+*.sqlproj.user
+*.pyc
+*.VC.db
+*.VC.VC.opendb
+*.user
+*.sdf
+*.css.map
+*.iml
+
+# . patterns
+.nuget
+.DS_Store
+.vs/
+.gradle/
+.idea/
+.metadata/
+.hg/
+.settings/
